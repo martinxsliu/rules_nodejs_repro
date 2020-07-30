@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "esModuleInterop": true,
+    "outDir": "build/dist",
+    "declaration": true,
+    "rootDir": "src",
+    "baseUrl": ".",
+    "sourceMap": true,
+    "module": "commonjs",
+    "target": "es6",
+    "lib": ["es2015", "esnext.asynciterable", "dom"],
+    "strict": true
+  }
+}
