@@ -2,7 +2,7 @@
   "name": "@rules_nodejs_repro/app",
   "version": "0.0.1",
   "dependencies": {
-    "lodash": "4.17.19"
+    "lodash": "4.17.21"
   },
   "devDependencies": {
     "@bazel/typescript": "2.0.1",
