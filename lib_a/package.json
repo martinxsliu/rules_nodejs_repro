@@ -2,7 +2,7 @@
   "name": "@rules_nodejs_repro/lib_a",
   "version": "0.0.1",
   "dependencies": {
-    "express": "4.16.3"
+    "express": "4.17.3"
   },
   "devDependencies": {
     "@bazel/typescript": "2.0.1",
